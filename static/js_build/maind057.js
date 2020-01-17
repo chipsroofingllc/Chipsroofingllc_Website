@@ -445,7 +445,7 @@
 
     })
     $('.commercial-roofing').on('click', function() {
-        window.location = './roofing-company/denver-roof-installation/index.html'
+        window.location = './denver-commercial-roofing/index.html'
 
     })
     $('.roof-repairs').on('click', function() {
@@ -453,7 +453,7 @@
 
     })
     $('.new-roofing').on('click', function() {
-        window.location = './denver-commercial-roofing/index.html'
+        window.location = './roofing-company/denver-roof-installation/index.html'
 
         
     })
